@@ -1,3 +1,4 @@
+layout_spectrum: 0.2283091084100306
 typography_spectrum: 0.36271017766557634
 color:
   brandStrength: 0.5693510677665472
@@ -10,7 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.2283091084100306
 name: Thor Photos
-title: Last Best Place
-description: Montana
